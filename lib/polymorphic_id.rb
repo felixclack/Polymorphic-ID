@@ -22,7 +22,6 @@ module HasPolymorphicId
         def is_polymorphic?(this_id)
           !this_id.scan(/^(\D+)_(\d+)$/).flatten.empty?
         end
-        
       end
     end
   end

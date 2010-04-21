@@ -6,7 +6,7 @@ Rails plugin to make life a bit simpler when dealing with polymorphic objects in
 Install
 =======
 
-    script/plugin install git://github.com/kid80/has_polymorphic_id
+    script/plugin install git://github.com/kid80/Polymorphic-ID.git
     
 Usage
 =======
